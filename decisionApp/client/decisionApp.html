@@ -1,0 +1,30 @@
+<head>
+  <title>Decision App</title>
+</head>
+
+<body>
+	<h1>Let me help you make rational decisions</h1>
+	{{> qualities}}
+	{{> addQualForm}}
+</body>
+
+<template name="qualities">
+	<div >
+		<ul id="items">
+			{{#each items}}
+				<li class = "item">{{name}}</li>
+			{{/each}}
+		</ul>
+	</div>
+</template>
+
+<template name="addQualForm">
+	<form>
+		<input type="text" name="qualityName">
+	</form>
+</template>
+
+
+
+
+
