@@ -1,0 +1,26 @@
+<template name="decisionsList">
+	<div >
+		<ul id="decisionsList">
+			{{#each decisions}}
+				{{> decisionItem}}
+			{{/each}}
+		</ul>
+	</div>
+</template>
+
+<template name="addFactors">
+	{{#if currentUser}}
+		<form>
+			<input type="text" name="factorName" value="eg. Where should we go on vacation?">
+			<input type="submit" value="Add Decision to make">
+		</form>
+	{{/if}}
+</template>
+
+<template name="decisionItem">
+	<div class="factor">
+		<div class="factor-content">
+		<h4><a href="/">{{name}}</a></h4>
+		</div>
+	</div>
+</template>

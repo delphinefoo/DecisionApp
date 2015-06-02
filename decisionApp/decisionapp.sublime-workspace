@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"factor",
+				"factorNameVar"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"direction",
+				"directionNames"
+			],
+			[
+				"element",
+				"elementFromChar"
+			],
+			[
+				"rand",
+				"randomElement"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"remove",
+				"removePlayerData"
+			],
+			[
+				"playerName",
+				"playerNameVar"
+			],
+			[
+				"player",
+				"playerNameVar"
+			],
+			[
+				"plyaer",
+				"playerNameVar"
+			],
+			[
+				"selected",
+				"selectedPlayer"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"case",
+				"case_eval"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"SECRET",
+				"SECRET_NUMBER"
+			],
+			[
+				"secret",
+				"secret_num"
+			],
+			[
+				"guess",
+				"guesses_left"
+			],
+			[
+				"gues",
+				"Guesses"
+			],
+			[
+				"SECRE",
+				"SECRET_NUMBER"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"start",
+				"startYear"
+			],
+			[
+				"star",
+				"startYear"
+			],
+			[
+				"b",
+				"BYE"
+			],
+			[
+				"iam",
+				"iAmDelphine"
+			],
+			[
+				"favorite",
+				"favorite_number"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/main.html",
+			"settings":
+			{
+				"buffer_size": 52,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/router.js",
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/templates/includes/loading.html",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/templates/templates.html",
+			"settings":
+			{
+				"buffer_size": 392,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/templates/helpers.js",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/templates",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/templates/applications",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/templates/includes",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/lib",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/lib/collections",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/server"
+	],
+	"file_history":
+	[
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/templates/decisions.js",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/decisionApp.js",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/decisionApp.css",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/decisionAppClient.js",
+		"/Users/delphinef/Documents/Programming/DecisionApp/decisionApp/client/decisionApp.html",
+		"/Users/delphinef/Documents/Programming/DecisionApp/README.md",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/Chapter 7 code for Project_Electronic_Life/my code/elife.js",
+		"/Users/delphinef/Documents/Programming/MongoDB class/app.js",
+		"/Users/delphinef/Documents/Programming/MongoDB class/script.js",
+		"/Users/delphinef/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/Chapter 7 code for Project_Electronic_Life/code/animateworld.js",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/More_Stuff/boolean_matchdata.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/More_Stuff/boolean_regex.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Hashes/hashes_exercises.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Files/feedzilla.json",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/README.md",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Hashes/optional_parameters.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/iterating_over_hashes.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Arrays/arrays_exercises.rb",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/leaderboard.html",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/leaderboard.css",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/collection.js",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/client/leaderboardClient.js",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/server/leaderboardServer.js",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/client/lib/custom.semantic.json",
+		"/Users/delphinef/Documents/Programming/OpenSourceProjects/Meteor-Learning/README.md",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/leaderboardClient.js",
+		"/Users/delphinef/Documents/Programming/Meteor_Tips/leaderboard/leaderboardSer",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/Loops_Iterators_exercises.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/loop_example.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/useful_loop.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/conditional_loop.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/next_loop.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/countdown.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/perform_again.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/countdown3.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/fibonacci.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Loops_and_iterators/use",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Flow_Control/flow_control_exercises.rb",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/EloquentJSExercises/chapter6.js",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Flow_Control/conditional.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Flow_Control/case_statement.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Methods/method_exercises.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Methods/say.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Methods/mutate.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Methods/return.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Methods/exercises.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Variables/name.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Variables/age.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/Variables.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/Intro_to_Programming_with_Ruby/The_Basics.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/my_folder/two.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/preparation.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/my_folder/one.rb",
+		"/Users/delphinef/student.rb",
+		"/Users/delphinef/Documents/Programming/Tealeaf/Prep/example.rb",
+		"/Users/delphinef/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/delphinef/git_basics/README.md",
+		"/Users/delphinef/git_basics/open",
+		"/Users/delphinef/git_basics/.git/config",
+		"/Users/delphinef/git_basics/.gitignore",
+		"/Users/delphinef/git_basics/config",
+		"/Applications/Sublime Text.app/Contents/SharedSupport/bin/.profile",
+		"/Users/delphinef/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/EloquentJSExercises/Chapter 6.js",
+		"/Users/delphinef/Desktop/test.js",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/EloquentJSExercises/chapter5.js",
+		"/Users/delphinef/Documents/Programming/Aquent JS /lesson_one.html",
+		"/Users/delphinef/Documents/Programming/Aquent JS /lesson_one.js",
+		"/Users/delphinef/Documents/Programming/javascript-koans/koans/AboutExpects.js",
+		"/Users/delphinef/Documents/Programming/javascript-koans/KoansRunner.html",
+		"/Users/delphinef/projects/web_guesser/web_guesser.rb",
+		"/Users/delphinef/projects/web_guesser/views/index.erb",
+		"/Users/delphinef/projects/test/views/index.erb",
+		"/Users/delphinef/projects/test/webguesserTest",
+		"/Users/delphinef/Desktop/test.html",
+		"/Users/delphinef/projects/web_guesser/web_guesser2.rb",
+		"/Users/delphinef/railsbridge/suggestotron/app/models/vote.rb",
+		"/Users/delphinef/railsbridge/suggestotron/db/migrate/20150509214412_add_column_to_votes.rb",
+		"/Users/delphinef/railsbridge/suggestotron/app/controllers/about_controller.rb",
+		"/Users/delphinef/railsbridge/suggestotron/app/controllers/topics_controller.rb",
+		"/Users/delphinef/railsbridge/suggestotron/app/models/topic.rb",
+		"/Users/delphinef/railsbridge/suggestotron/app/views/topics/about.html.erb",
+		"/Users/delphinef/railsbridge/suggestotron/app/views/about/about.html.erb",
+		"/Users/delphinef/railsbridge/suggestotron/config/routes.rb",
+		"/Users/delphinef/railsbridge/suggestotron/app/views/topics/index.html.erb",
+		"/Users/delphinef/railsbridge/suggestotron/app/controllers/static_controller.rb",
+		"/Users/delphinef/railsbridge js/AdvTodoList/index.html",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/EloquentJSExercises/chapter4.js",
+		"/Users/delphinef/railsbridge js/AdvTodoList/store.js",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/Chapter 4 Data Structures_ Objects and Arrays __ Eloquent JavaScript.pdf",
+		"/Users/delphinef/railsbridge/test_app/Gemfile",
+		"/Users/delphinef/railsbridge/test_app/config/routes.rb",
+		"/Users/delphinef/Documents/Programming/microscope/client/main.html",
+		"/Users/delphinef/Documents/Programming/microscope/client/stylesheets/style.css",
+		"/Users/delphinef/Documents/Programming/bootstrap/bootstrap-3.3.4-dist/css/bootstrap.css",
+		"/Users/delphinef/Documents/Programming/Boostrap labs/submitAlbum.html",
+		"/Users/delphinef/Documents/Programming/Eloquent JS/EloquentJSExercises/chapter3.js",
+		"/Users/delphinef/Desktop/chapter2.js",
+		"/Users/delphinef/Desktop/ex.html",
+		"/Users/delphinef/Documents/Programming/meteorapp/meteorapp.js",
+		"/Users/delphinef/Documents/Programming/meteorapp/meteorapp.css",
+		"/Users/delphinef/Documents/Programming/free code camp/FCC finders keepers.js",
+		"/Users/delphinef/Documents/Programming/meteorapp/meteorapp.html",
+		"/Users/delphinef/Documents/Programming/free code camp/FCC finders keepers",
+		"/Users/delphinef/Documents/Programming/Boostrap labs/ Bootstrap lab 1.html",
+		"/Users/delphinef/Desktop/smallest common multiple.js",
+		"/Users/delphinef/Documents/Programming/bootstrap/styles/main.css",
+		"/Users/delphinef/Documents/Programming/bootstrap/bootstrap_ex.html",
+		"/Users/delphinef/simple-todos/simple-todos.css",
+		"/Users/delphinef/simple-todos/simple-todos.js",
+		"/Users/delphinef/simple-todos/simple-todos.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"guess",
+			"notifyComponents",
+			"height"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/templates/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/templates/includes/loading.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/templates/templates.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/templates/helpers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "decisionapp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
